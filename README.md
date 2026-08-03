@@ -53,7 +53,7 @@ esp32-led-patterns/
 
 ## Images
 
-I'll be adding photos of the hardware setup and the LED patterns.
+I'll be adding photos and working of the hardware setup and the LED patterns.
 
 ## Next Steps
 
